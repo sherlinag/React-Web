@@ -21,7 +21,7 @@ const Home = () => {
                 <Link to="/Login">Login</Link>
               </li>
               <li className="md:ml-4">
-              <Link to="/Signup">Signup</Link>
+                <Link to="/Signup">Signup</Link>
               </li>
             </ul>
           </nav>
